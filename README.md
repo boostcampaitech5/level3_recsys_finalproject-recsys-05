@@ -37,7 +37,6 @@
 
 **지금 바로 함께할 챔피언을 찾아보세요!**
 
-<a href="https://www.lolrecs.com"><img src="./assets/lolrecsbanner.png" alt="www.lolrecs.com"></a>
 
 <br>
 
